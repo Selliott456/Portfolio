@@ -136,7 +136,7 @@ function Projects() {
         <h3>You Want a Pizza Me?</h3>{" "}
         <a
           className="project__button"
-          href="https://prodigresser.github.io/project-2/"
+          href="https://github.com/Selliott456/project-2"
         >
           Code
         </a>
