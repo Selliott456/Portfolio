@@ -227,7 +227,7 @@ function Projects() {
         </div>
       </div>
       <div className="project">
-        <h3>Voice Recognition Dictionary</h3>{" "}
+        <h3>Help Cher Turn Back Time</h3>{" "}
         <a
           className="project__button"
           href="https://github.com/Selliott456/dictionary"
