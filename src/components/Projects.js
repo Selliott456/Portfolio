@@ -33,7 +33,11 @@ function Projects() {
         </a>
         <div className="desktop-info">
           <div className="project__images-container">
-            <img className="project__image" src={howto1}></img>
+            <img
+              alt="how to tube"
+              className="project__image"
+              src={howto1}
+            ></img>
           </div>
           <div className="project__blurb">
             <p>
@@ -82,7 +86,11 @@ function Projects() {
         </a>
         <div className="desktop-info">
           <div className="project__images-container">
-            <img className="project__image" src={devmaps1}></img>
+            <img
+              alt="devs dot map"
+              className="project__image"
+              src={devmaps1}
+            ></img>
           </div>
           <div className="project__blurb">
             <p>
@@ -134,7 +142,11 @@ function Projects() {
         </a>
         <div className="desktop-info">
           <div className="project__images-container">
-            <img className="project__image" src={pizza4}></img>
+            <img
+              alt="You want a pizza me"
+              className="project__image"
+              src={pizza4}
+            ></img>
           </div>
           <div className="project__blurb">
             <p>
@@ -172,6 +184,7 @@ function Projects() {
         <div className="desktop-info">
           <div className="project__images-container">
             <img
+              alt="dictionary"
               className="project__image"
               id="dictionary"
               src={dictionary1}
@@ -223,7 +236,7 @@ function Projects() {
         </a>
         <div className="desktop-info">
           <div className="project__images-container">
-            <img className="project__image" src={cher2}></img>
+            <img alt="cher game" className="project__image" src={cher2}></img>
           </div>
           <div className="project__blurb">
             <p>
@@ -260,7 +273,11 @@ function Projects() {
         </a>
         <div className="desktop-info">
           <div className="project__images-container">
-            <img className="project__image" src={cbt1}></img>
+            <img
+              alt="inveclyde CBT"
+              className="project__image"
+              src={cbt1}
+            ></img>
           </div>
           <div className="project__blurb">
             <p>
