@@ -28,7 +28,10 @@ function About() {
           <p>
             I am a second career developer and previously worked in the field of
             Education as a Physics specialist in various middle and senior
-            management roles.
+            management roles. I have therefore developed a robust set of soft
+            skills, an understanding of business and people management and a
+            level of patience that can only be obtained by trying to teach 32
+            eleven year olds Newtonian Mechanics.
           </p>
           <p>
             I joined the world of software engineering via a full stack
@@ -38,6 +41,8 @@ function About() {
           <p>
             {" "}
             I have so far worked in Scotland, Luxembourg, Spain and London.
+            Moving around doesn't scare me and I love the challaenge of learning
+            how to adapt to different cultures.
           </p>
         </div>
       </div>
