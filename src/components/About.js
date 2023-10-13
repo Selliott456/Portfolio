@@ -27,7 +27,7 @@ function About() {
             <a href="https://breakroom.cc">Breakroom</a> and{" "}
             <a href="https://citymapper.com">Citymapper</a>. I can currently be
             found tinkering away with the code base at{" "}
-            <a href="https://www.proterahealth.com/">Protera </a> Health - which
+            <a href="https://www.proterahealth.com/">Protera Health</a> - which
             I love!
           </p>
           <p>
