@@ -18,31 +18,21 @@ function About() {
         <img alt="elliott" className="about__photo" src={MeSun} />
         <div className="about__info">
           <p>
-            Hi, I'm Elliott. Most recently, I have been working at{" "}
-            <a href="https://breakroom.cc">Breakroom</a> using{" "}
-            <b>Elixir, Phoenix, </b> <b>Postgres</b> and <b>SQL</b> in a full
-            stack position. Before this, I was an engineer at{" "}
-            <a href="https://citymapper.com">Citymapper </a>
-            using <b>React and Javascript.</b>{" "}
+            Hi, I'm Elliott. I work in Elixir/Phoenix and I love it. I have also
+            worked commercially with the MERN stack and Python/Flask backends.
           </p>
           <p>
-            I am a second career developer and previously worked in the field of
-            Education as a Physics specialist in various middle and senior
-            management roles. I have therefore developed a robust set of soft
-            skills, an understanding of business and people management and a
-            level of patience that can only be obtained by trying to teach 32
-            eleven year olds Newtonian Mechanics.
+            Previous employers include{" "}
+            <a href="https://breakroom.cc">Breakroom</a> and{" "}
+            <a href="https://citymapper.com">Citymapper</a>.I can currently be
+            found tinkering away with the code base at{" "}
+            <a href="https://www.proterahealth.com/">
+              Protera Health - which I love!
+            </a>
           </p>
           <p>
-            I joined the world of software engineering via a full stack
-            intensive bootcamp which focussed on the <b>MERN stack</b> as well
-            as a couple of projects using <b>Python and Flask</b>
-          </p>
-          <p>
-            {" "}
-            I have so far worked in Scotland, Luxembourg, Spain and London.
-            Moving around doesn't scare me and I love the challaenge of learning
-            how to adapt to different cultures.
+            I have so far lived and worked in London, Spain, Luxmebourg and
+            Nigeria. I am not afraid of challenges or adventures!
           </p>
         </div>
       </div>
