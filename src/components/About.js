@@ -18,17 +18,17 @@ function About() {
         <img alt="elliott" className="about__photo" src={MeSun} />
         <div className="about__info">
           <p>
-            Hi, I'm Elliott. I work in Elixir/Phoenix and I love it. I have also
-            worked commercially with the MERN stack and Python/Flask backends.
+            Hi, I'm Elliott. I work with Elixir/Phoenix and I love it. I have
+            also worked commercially with the MERN stack and Python/Flask
+            backends.
           </p>
           <p>
             Previous employers include{" "}
             <a href="https://breakroom.cc">Breakroom</a> and{" "}
-            <a href="https://citymapper.com">Citymapper</a>.I can currently be
+            <a href="https://citymapper.com">Citymapper</a>. I can currently be
             found tinkering away with the code base at{" "}
-            <a href="https://www.proterahealth.com/">
-              Protera Health - which I love!
-            </a>
+            <a href="https://www.proterahealth.com/">Protera </a> Health - which
+            I love!
           </p>
           <p>
             I have so far lived and worked in London, Spain, Luxmebourg and
